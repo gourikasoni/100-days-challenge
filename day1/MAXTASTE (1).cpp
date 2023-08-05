@@ -1,3 +1,5 @@
+link to problem - https://www.codechef.com/problems/MAXTASTE
+
 #include <iostream>
 using namespace std;
 
