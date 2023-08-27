@@ -1,0 +1,8 @@
+learnt -
+1. object and class
+2. getter setter
+3. constructors
+4. started function overloading
+5. algorithmic complexity 
+
+(couldn't practice much..just wasnt a good day)
