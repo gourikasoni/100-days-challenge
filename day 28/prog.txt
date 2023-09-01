@@ -1,0 +1,6 @@
+inline func
+friend and virtual func
+func pprototyping
+call by ref
+call by value
+func scoping
