@@ -1,0 +1,9 @@
+lA is a linear array with N elements and k is positive integer with k<=n
+insert[la,n,k,item]
+[initialize counter] set j=n
+repeat steps 3 and 4 while j>=k
+set la[j+1] =la[j]
+set j=j-1
+set la [k] =item
+set n=n+1
+exit

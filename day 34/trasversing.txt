@@ -1,0 +1,4 @@
+set k=lb
+repeat steps for k=lb to ub
+apply process
+exit
