@@ -1,0 +1,15 @@
+refers to removing an element and replacing it with next element of array
+
+3 cases
+ 1 from beginning
+ 2 from end 
+ 3 from given position
+
+ 
+delete (la,n,k,item)
+
+1- set item = la[k]
+2 - repeat from j=k to n-1
+3- set la [j] = la [j+1]
+4 - reset n= n-1
+5 - exit

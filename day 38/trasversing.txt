@@ -1,0 +1,9 @@
+LA is a linear array with N elements and lower bound LB and upper bound UB. this algo trasverses LA applying process to each element of LA
+
+algo -
+
+1 (initialise counter) set k=lb
+2 repeat steps while k<=ub 
+3 apply process from LA[K] 
+4 k=k+1
+5- exit

@@ -1,0 +1,17 @@
+also called sequential search 
+ 
+data is a linear array with n elements etc etc kahani
+
+
+
+
+
+
+
+linear(DATA,ITEM,LOC,N)
+ 1 set DATA[n+1] = ITEM
+ 2 set loc=1
+ 3 repeat while data [loc]!= item
+ 4  set loc=loc+1
+ 5 if loc=n+1 then loc=0
+ 6  exit

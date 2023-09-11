@@ -1,0 +1,17 @@
+applied only on sorted array 
+
+algo - 
+1 set beg=lb , end = ub, mid =int(beg+end)/2
+2 repeat while beg<=end
+and data[mid] != item
+3 if item<mid
+ set end= mid-1
+4 if item > mid
+set beg= mid +1 
+
+5 set mid= int(beg+end)/2
+6 if data [mid] =item
+loc=mid
+
+7 else loc= null
+8 exit

@@ -1,0 +1,20 @@
+insertion - refers to adding an element 
+
+three cases -
+1- insert an element at beginning
+2- insert an element at the end
+3- insert the element at given location
+
+algo-
+ LA is a linear array with n elements and k is a positive integer while k<= n.. algo inserts ITEM in kth position
+
+ 
+insert(ITEM, k , n, LA)
+1 set j= n
+2 repeat steps 3 and 4  while j>=k
+3 set LA[j+1] = LA[j]
+4 j=j-1
+5 set LA[k]= ITEM 
+6 reset n=n+1
+7 exit
+
